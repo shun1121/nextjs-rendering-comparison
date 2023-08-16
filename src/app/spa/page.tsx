@@ -1,8 +1,6 @@
-import Image from 'next/image'
-
-export default function Home() {
+export default function Page() {
   return (
-    <div>
+    <div className="pl-[20px] mt-[20px]">
       SPA
     </div>
   )
